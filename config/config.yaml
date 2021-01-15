@@ -1,5 +1,5 @@
 # your domain
-domain: agency01.herokuapp.com
+domain: herokuappagency01.herokuapp.com
 port:                 # default 12580
 
 # source list file
