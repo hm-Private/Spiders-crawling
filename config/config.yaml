@@ -1,5 +1,5 @@
 # your domain
-domain: agency01.herokuapp.com
+domain: hm2019721.herokuapp.com
 port:                 # default 12580
 
 # source list file
@@ -12,7 +12,7 @@ source-files:
 # ======= 可选项，留空使用default值  =======
 
 # postgresql database info
-database_url: "postgres://eyskulcnzutzlp:518ae0ed7d08b8bffba9e6ccc6471be2e2db61081b396b449aecf7d648510b0d@ec2-34-200-106-49.compute-1.amazonaws.com:5432/d8hn122k0aabai"
+database_url: ""
 
 # interval between each crawling
 crawl-interval:       # v0.5.x default 60 (minutes)
