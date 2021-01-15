@@ -11,6 +11,31 @@
 # 网页模糊抓取
 - type: webfuzz
   options:
+    url: https://52bp.org/freesite.html
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://view.freev2ray.org/
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://free-ss.site/
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://lncn.org/
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://3.weiwei.in/2020.html
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
     url: https://merlinblog.xyz/wiki/freess.html
 
 # tg频道抓取
