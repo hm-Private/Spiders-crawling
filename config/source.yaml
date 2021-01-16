@@ -56,6 +56,11 @@
 # 网页模糊抓取
 - type: webfuzz
   options:
+    url: https://zfjvpn.gitbook.io/123/
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
     url: https://view.freev2ray.org/
 
 # 网页模糊抓取
@@ -78,10 +83,21 @@
   options:
     url: https://merlinblog.xyz/wiki/freess.html
 
+# 翻墙党网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://fanqiangdang.com/thread-17551-1-1.html
+
 # tg频道抓取
 - type: tgchannel
   options:
     channel: ssrList
+    num: 200
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: SSRSUB
     num: 200
 
 # 翻墙党论坛抓取
