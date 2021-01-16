@@ -6,6 +6,17 @@
 # 订阅链接
 - type: subscribe
   options:
+    url: https://raw.githubusercontent.com/freefq/free/master/v2
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/ssr
+
+
+# 订阅链接
+- type: subscribe
+  options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 
 # 订阅链接
@@ -82,11 +93,6 @@
 - type: webfuzz
   options:
     url: https://merlinblog.xyz/wiki/freess.html
-
-# 翻墙党网页模糊抓取
-- type: webfuzz
-  options:
-    url: https://fanqiangdang.com/thread-17551-1-1.html
 
 # tg频道抓取
 - type: tgchannel
