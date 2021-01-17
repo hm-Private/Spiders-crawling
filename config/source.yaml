@@ -140,6 +140,16 @@
     num: 200
 
 # 翻墙党论坛抓取
+- type: webfuzz
+  options:
+    url: https://www.vpngate.net/cn/
+
+# 翻墙党论坛抓取
+- type: webfuzz
+  options:
+    url: https://www.freeopenvpn.org/
+
+# 翻墙党论坛抓取
 - type: web-fanqiangdang
   options:
     url: https://fanqiangdang.com/forum-48-1.html
