@@ -97,14 +97,20 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/trojan
+
+# 杂乱订阅区
 
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/trojan
+    url: https://raw.githubusercontent.com/freefq/free/master/ssr
 
-# 杂乱订阅区
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/v2
+
 # 订阅链接
 - type: subscribe
   options:
@@ -163,12 +169,42 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent
+    url: https://qiaomenzhuanfx.netlify.app/
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://muma16fx.netlify.app/
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: http://ss.pythonic.life/full/subscribe
 
 # 订阅链接
 - type: subscribe
   options:
     url: https://bit.ly/2D5fWhX
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://prom-php.herokuapp.com/cloudfra_ssr.txt
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/online
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent
 
 # 订阅链接
 - type: subscribe
@@ -188,7 +224,37 @@
 # 订阅链接
 - type: subscribe
   options:
+    url: https://shadow-socks-share.herokuapp.com/subscribe
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub
+
+# 订阅链接
+- type: subscribe
+  options:
     url: https://raw.githubusercontent.com/cdp2020/v2ray/master/README.md
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://www.lanxh.com/category/ziyuan
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://fanqiang.network/
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://www.freess.best/
 
 # 网页模糊抓取
 - type: webfuzz
@@ -204,6 +270,11 @@
 - type: webfuzz
   options:
     url: https://52bp.org/freesite.html
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://www.youneed.win/free-ssr
 
 # 网页模糊抓取
 - type: webfuzz
