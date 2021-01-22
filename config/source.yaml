@@ -6,6 +6,31 @@
 # 订阅链接
 - type: subscribe
   options:
+    url: https://proxypoolss.tk/ss/sub
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/sip002/sub
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/ssr/sub
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/vmess/sub
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/trojan/sub
+
+# 订阅链接
+- type: subscribe
+  options:
     url: https://proxypool.ga/ss/sub
 
 # 订阅链接
