@@ -4,7 +4,7 @@
     url: https://raw.githubusercontent.com/hm-Private/GZCF/main/sub.list
 
 # 订阅链接
-- type: subscribe
+- type: clash
   options:
     url: https://proxypoolss.tk/ss/sub
 
@@ -29,7 +29,7 @@
     url: https://proxypoolss.tk/trojan/sub
 
 # 订阅链接
-- type: subscribe
+- type: clash
   options:
     url: https://proxypool.ga/ss/sub
 
@@ -69,7 +69,7 @@
     url: http://proxypool.turinglabs.net/upload/daily/v2ray
 
 # 订阅链接
-- type: subscribe
+- type: clash
   options:
     url: https://proxypoolsstest.herokuapp.com/ss/sub
 
@@ -125,16 +125,6 @@
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/trojan
 
 # 杂乱订阅区
-
-# 订阅链接
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/freefq/free/master/ssr
-
-# 订阅链接
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/freefq/free/master/v2
 
 # 订阅链接
 - type: subscribe
