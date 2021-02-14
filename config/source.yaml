@@ -1,4 +1,4 @@
 # 模糊抓取订阅链接
-- type: subscribe
+- type: clash
   options:
-    url: http://106.15.251.133:54321/clash/proxies
+    url: http://106.15.251.133:54321/clash/config
